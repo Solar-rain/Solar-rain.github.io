@@ -1,129 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://404name.github.io</id>
-    <title>404name小站点</title>
-    <updated>2021-03-09T01:13:40.704Z</updated>
+    <id>https://Solar-rain.github.io</id>
+    <title>夏威的小站</title>
+    <updated>2021-03-14T06:24:59.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://404name.github.io"/>
-    <link rel="self" href="https://404name.github.io/atom.xml"/>
-    <subtitle>计科大二在学，</subtitle>
-    <logo>https://404name.github.io/images/avatar.png</logo>
-    <icon>https://404name.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 404name小站点</rights>
-    <entry>
-        <title type="html"><![CDATA[Hexo添加Live2D看板娘+模型预览]]></title>
-        <id>https://404name.github.io/post/hexo-tian-jia-live2d-kan-ban-niang-mo-xing-yu-lan/</id>
-        <link href="https://404name.github.io/post/hexo-tian-jia-live2d-kan-ban-niang-mo-xing-yu-lan/">
-        </link>
-        <updated>2021-03-09T00:49:00.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<h3 id="文章目录">文章目录</h3>
-<p>下载仓库：https://gitee.com/ericam/live2d-widget-models</p>
-<ul>
-<li>
-<ul>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#_1">添加和注意事项</a></li>
-<li>模型预览
-<ul>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelchitose_12">live2d-widget-model-chitose</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelepsilon2_1_14">live2d-widget-model-epsilon2_1</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelgf_16">live2d-widget-model-gf</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelharu_01_18">live2d-widget-model-haru_01</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelharu_02_20">live2d-widget-model-haru_02</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelharuto_22">live2d-widget-model-haruto</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelhibiki_24">live2d-widget-model-hibiki</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelhijiki_26">live2d-widget-model-hijiki</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelizumi_28">live2d-widget-model-izumi</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelkoharu_30">live2d-widget-model-koharu</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelmiku_32">live2d-widget-model-miku</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelnico_34">live2d-widget-model-nico</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelnietzsche_36">live2d-widget-model-nietzsche</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelnij_38">live2d-widget-model-ni-j</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelnipsilon_40">live2d-widget-model-nipsilon</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelnito_42">live2d-widget-model-nito</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelshizuku_44">live2d-widget-model-shizuku</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodeltororo_46">live2d-widget-model-tororo</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodeltsumiki_48">live2d-widget-model-tsumiki</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelunitychan_50">live2d-widget-model-unitychan</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelwanko_52">live2d-widget-model-wanko</a></li>
-<li><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440#live2dwidgetmodelz16_54">live2d-widget-model-z16</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="添加和注意事项">添加和注意事项</h2>
-<p>关于如何添加，可以看这里：https://www.jianshu.com/p/3a6342e16e57<br>
-模型的GitHub地址：https://github.com/xiazeyu/live2d-widget-models<br>
-<strong>需要注意：</strong></p>
-<ol>
-<li>
-<p>live2d-widget-model-haru模型需要安装<code>npm install live2d-widget-model-haru</code></p>
-</li>
-<li>
-<p>在使用的时候，live2d-widget-model-haru有两个模型，所以在使用的时候，是这样的：</p>
-<blockquote>
-<p>use: live2d-widget-model-haru/01 或者<br>
-use: live2d-widget-model-haru/02</p>
-</blockquote>
-</li>
-<li>
-<p>01和02的json文件是空的，所以需要把live2d-widget-model-haru文件夹下的json文件复制进去</p>
-</li>
-</ol>
-<h2 id="模型预览">模型预览</h2>
-<p>以下模型均是在<code>width: 150</code> 、<code>height: 300</code>下截得</p>
-<h3 id="live2d-widget-model-chitose">live2d-widget-model-chitose</h3>
-<figure data-type="image" tabindex="1"><img src="https://img-blog.csdnimg.cn/20190213143712193.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-chitose" loading="lazy"></figure>
-<h3 id="live2d-widget-model-epsilon2_1">live2d-widget-model-epsilon2_1</h3>
-<figure data-type="image" tabindex="2"><img src="https://img-blog.csdnimg.cn/20190213143804975.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-epsilon2_1" loading="lazy"></figure>
-<h3 id="live2d-widget-model-gf">live2d-widget-model-gf</h3>
-<figure data-type="image" tabindex="3"><img src="https://img-blog.csdnimg.cn/20190213143827126.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-gf" loading="lazy"></figure>
-<h3 id="live2d-widget-model-haru_01">live2d-widget-model-haru_01</h3>
-<figure data-type="image" tabindex="4"><img src="https://img-blog.csdnimg.cn/20190213143840834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-haru_01" loading="lazy"></figure>
-<h3 id="live2d-widget-model-haru_02">live2d-widget-model-haru_02</h3>
-<figure data-type="image" tabindex="5"><img src="https://img-blog.csdnimg.cn/20190213143852738.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-haru_02" loading="lazy"></figure>
-<h3 id="live2d-widget-model-haruto">live2d-widget-model-haruto</h3>
-<figure data-type="image" tabindex="6"><img src="https://img-blog.csdnimg.cn/2019021314390429.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-haruto" loading="lazy"></figure>
-<h3 id="live2d-widget-model-hibiki">live2d-widget-model-hibiki</h3>
-<figure data-type="image" tabindex="7"><img src="https://img-blog.csdnimg.cn/2019021314391665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-hibiki" loading="lazy"></figure>
-<h3 id="live2d-widget-model-hijiki">live2d-widget-model-hijiki</h3>
-<figure data-type="image" tabindex="8"><img src="https://img-blog.csdnimg.cn/20190213143926652.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-hijiki" loading="lazy"></figure>
-<h3 id="live2d-widget-model-izumi">live2d-widget-model-izumi</h3>
-<figure data-type="image" tabindex="9"><img src="https://img-blog.csdnimg.cn/20190213143935681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-izumi" loading="lazy"></figure>
-<h3 id="live2d-widget-model-koharu">live2d-widget-model-koharu</h3>
-<figure data-type="image" tabindex="10"><img src="https://img-blog.csdnimg.cn/20190213143946729.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-koharu" loading="lazy"></figure>
-<h3 id="live2d-widget-model-miku">live2d-widget-model-miku</h3>
-<figure data-type="image" tabindex="11"><img src="https://img-blog.csdnimg.cn/20190213143956339.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-miku" loading="lazy"></figure>
-<h3 id="live2d-widget-model-nico">live2d-widget-model-nico</h3>
-<figure data-type="image" tabindex="12"><img src="https://img-blog.csdnimg.cn/20190213144006466.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-nico" loading="lazy"></figure>
-<h3 id="live2d-widget-model-nietzsche">live2d-widget-model-nietzsche</h3>
-<figure data-type="image" tabindex="13"><img src="https://img-blog.csdnimg.cn/20190213144016561.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-nietzsche" loading="lazy"></figure>
-<h3 id="live2d-widget-model-ni-j">live2d-widget-model-ni-j</h3>
-<figure data-type="image" tabindex="14"><img src="https://img-blog.csdnimg.cn/20190213144024314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-ni-j" loading="lazy"></figure>
-<h3 id="live2d-widget-model-nipsilon">live2d-widget-model-nipsilon</h3>
-<figure data-type="image" tabindex="15"><img src="https://img-blog.csdnimg.cn/2019021314403570.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-nipsilon" loading="lazy"></figure>
-<h3 id="live2d-widget-model-nito">live2d-widget-model-nito</h3>
-<figure data-type="image" tabindex="16"><img src="https://img-blog.csdnimg.cn/20190213144043660.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-nito" loading="lazy"></figure>
-<h3 id="live2d-widget-model-shizuku">live2d-widget-model-shizuku</h3>
-<figure data-type="image" tabindex="17"><img src="https://img-blog.csdnimg.cn/20190213144051578.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-shizuku" loading="lazy"></figure>
-<h3 id="live2d-widget-model-tororo">live2d-widget-model-tororo</h3>
-<figure data-type="image" tabindex="18"><img src="https://img-blog.csdnimg.cn/20190213144100147.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-tororo" loading="lazy"></figure>
-<h3 id="live2d-widget-model-tsumiki">live2d-widget-model-tsumiki</h3>
-<figure data-type="image" tabindex="19"><img src="https://img-blog.csdnimg.cn/20190213144108445.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-tsumiki" loading="lazy"></figure>
-<h3 id="live2d-widget-model-unitychan">live2d-widget-model-unitychan</h3>
-<figure data-type="image" tabindex="20"><img src="https://img-blog.csdnimg.cn/20190213144116297.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-unitychan" loading="lazy"></figure>
-<h3 id="live2d-widget-model-wanko">live2d-widget-model-wanko</h3>
-<figure data-type="image" tabindex="21"><img src="https://img-blog.csdnimg.cn/20190213144124813.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-wanko" loading="lazy"></figure>
-<h3 id="live2d-widget-model-z16">live2d-widget-model-z16</h3>
-<figure data-type="image" tabindex="22"><img src="https://img-blog.csdnimg.cn/20190213144132454.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70" alt="live2d-widget-model-z16" loading="lazy"></figure>
-<p>转载于:https://www.cnblogs.com/Friends-A/p/11054968.html</p>
-]]></content>
-    </entry>
+    <link rel="alternate" href="https://Solar-rain.github.io"/>
+    <link rel="self" href="https://Solar-rain.github.io/atom.xml"/>
+    <subtitle>又一个小站点</subtitle>
+    <logo>https://Solar-rain.github.io/images/avatar.png</logo>
+    <icon>https://Solar-rain.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 夏威的小站</rights>
     <entry>
         <title type="html"><![CDATA[博客使用帮助]]></title>
-        <id>https://404name.github.io/post/bo-ke-shi-yong-bang-zhu/</id>
-        <link href="https://404name.github.io/post/bo-ke-shi-yong-bang-zhu/">
+        <id>https://Solar-rain.github.io/post/bo-ke-shi-yong-bang-zhu/</id>
+        <link href="https://Solar-rain.github.io/post/bo-ke-shi-yong-bang-zhu/">
         </link>
         <updated>2021-03-08T13:34:21.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -274,8 +164,8 @@ git clone https://gitee.com/ericam/gridea-theme-fog.git
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://404name.github.io/post/hello-gridea/</id>
-        <link href="https://404name.github.io/post/hello-gridea/">
+        <id>https://Solar-rain.github.io/post/hello-gridea/</id>
+        <link href="https://Solar-rain.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
